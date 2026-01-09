@@ -1,0 +1,9 @@
+selenium
+webdriver-manager
+pandas
+numpy
+pyarrow
+scikit-learn
+matplotlib
+tqdm
+regex
